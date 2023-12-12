@@ -1,0 +1,116 @@
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\WebApp.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\WebApp.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Helpers.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Razor.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\WebGrease.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Helpers.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.Razor.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\FornecedorWebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\WebApp.dll.config
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\WebApp.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\WebApp.pdb
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\csc.exe
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\csc.rsp
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\csi.exe
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\csi.rsp
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\vbc.exe
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Antlr3.Runtime.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Helpers.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Mvc.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Optimization.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Razor.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.WebPages.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\WebGrease.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Helpers.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Mvc.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Optimization.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.Razor.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.WebPages.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Antlr3.Runtime.pdb
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\obj\Debug\WebApp.dll
+C:\Rodrigo\projeto\dotnet\FornecedorWebApp\WebApp\obj\Debug\WebApp.pdb

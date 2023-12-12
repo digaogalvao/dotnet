@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "idempresa": "1",
+    "nome": "Office",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": "",
+    "nasc": "",
+    "telefone": "(21)2222-2222",
+    "data": "19/05/2020"
+  },
+  {
+    "id": 2,
+    "idempresa": "2",
+    "nome": "Food",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": "",
+    "nasc": "",
+    "telefone": "(21)3333-3333",
+    "data": "19/05/2020"
+  },
+  {
+    "id": 3,
+    "idempresa": "3",
+    "nome": "BEEwdqddqwdR",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": "",
+    "nasc": "",
+    "telefone": "(21)4444-4444",
+    "data": "19/05/2020"
+  },
+  {
+    "id": 4,
+    "idempresa": "3",
+    "nome": "Beer",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": null,
+    "nasc": null,
+    "telefone": "(21)4444-4444",
+    "data": "19/05/2020"
+  },
+  {
+    "id": 5,
+    "idempresa": "3",
+    "nome": "Enter",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": null,
+    "nasc": null,
+    "telefone": "(21)4444-4444",
+    "data": "19/05/2020"
+  },
+  {
+    "id": 6,
+    "idempresa": "3",
+    "nome": "BEE",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": null,
+    "nasc": null,
+    "telefone": "(21)4444-4444",
+    "data": "19/05/2020"
+  },
+  {
+    "id": 7,
+    "idempresa": "3",
+    "nome": "zzz",
+    "tipo": "PJ",
+    "cpfcnpj": "12345678901234",
+    "rg": null,
+    "nasc": null,
+    "telefone": "(21)4444-4444",
+    "data": "19/05/2020"
+  }
+]
